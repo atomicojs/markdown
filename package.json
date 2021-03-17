@@ -1,7 +1,7 @@
 {
     "name": "@atomico/markdown",
     "type": "module",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Default package @uppercod/markdown-inline for Atomico",
     "module": "./src/markdown.js",
     "typings": "./markdown.d.ts",
